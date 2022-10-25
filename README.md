@@ -1,3 +1,3 @@
 # Pascals-Triangle
 
-# codes to generate a pascal's triangle
+Three codes to generate a pascal's triangle
